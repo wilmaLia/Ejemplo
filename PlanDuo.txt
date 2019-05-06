@@ -2,5 +2,5 @@ Corali Almanza Patzi
 Wilma Limachi Casi
 
 cel: 78776787
-ci: 11071219 LP
+ci: 11071219 OR
 cel: 74060358
